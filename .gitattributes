@@ -1,0 +1,12 @@
+# Line endings & standards
+# ---------------------------------------------------
+* text=auto
+
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/CHANGELOG.md       export-ignore
+/CONDICT.md         export-ignore
+/database.sql       export-ignore
+/LICENSE            export-ignore
+/phpstorm.php       export-ignore
+/README.md          export-ignore
