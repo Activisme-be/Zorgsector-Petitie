@@ -12,6 +12,7 @@
         <div class="col-md-2 footer-social animated fadeInDown">
             <h4>Contact</h4>
             <ul>
+                <li><a href="http://www.activisme.be">Activisme.be</a></li>
                 <li><a href="https://www.facebook.com/ActivismeTomManhaeghe/">Facebook</a></li>
                 <li><a href="mailto:petities@homeplace.be">Email</a></li>
             </ul>
