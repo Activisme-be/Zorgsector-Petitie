@@ -10,3 +10,5 @@
 /LICENSE            export-ignore
 /phpstorm.php       export-ignore
 /README.md          export-ignore
+/package.json       export-ignore
+/Gulpfile.js        export-ignore
