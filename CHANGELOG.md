@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added changelog.
 - Added hyperlink to the index site.
 - Added `.gitattributes` file.
+- Added `.gitignore` file.
