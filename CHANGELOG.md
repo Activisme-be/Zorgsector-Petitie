@@ -6,4 +6,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## V1.2.0
 
-- Added changelog. 
+- Added changelog.
+- Added hyperlink to the index site.
