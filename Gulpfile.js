@@ -1,17 +1,17 @@
-var gulp = require('gulp');
-var sass = require('gulp-ruby-sass');
-var autoprefixer = require('gulp-autoprefixer');
-var cssnano = require('gulp-cssnano');
-var uglify = require('gulp-uglify');
-var imagemin = require('gulp-imagemin');
-var rename = require('gulp-rename');
-var concat = require('gulp-concat');
-var notify = require('gulp-notify');
-var cache = require('gulp-cache');
-var livereload = require('gulp-livereload');
-var del = require('del');
+var gulp            = require('gulp');
+var sass            = require('gulp-ruby-sass');
+var autoprefixer    = require('gulp-autoprefixer');
+var cssnano         = require('gulp-cssnano');
+var uglify          = require('gulp-uglify');
+var imagemin        = require('gulp-imagemin');
+var rename          = require('gulp-rename');
+var concat          = require('gulp-concat');
+var notify          = require('gulp-notify');
+var cache           = require('gulp-cache');
+var livereload      = require('gulp-livereload');
+var del             = require('del');
 
-gulp.task('default', ['clean'], function () {
+gulp.task('default', function () {
     gulp.start('styles', 'scripts');
 })
 
