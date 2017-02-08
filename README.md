@@ -1,5 +1,7 @@
 # Petitie barebone. 
 
+**INFO: Dit project word voorlopig niet meer ondersteund.**
+
 Dit project is een template/barebone voor een petitie. Tevens is dit ook gerealiseerd door Activisme.be
 
 ## Security bugs
